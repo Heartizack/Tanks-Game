@@ -1,0 +1,1 @@
+tank_1_01.png.png 9 5, tank_1_02.png.png 173 5, tank_1_03.png.png 337 5, tank_1_04.png.png 501 5, tank_1_05.png.png 665 5, tank_1_06.png.png 829 5, tank_1_07.png.png 993 5, tank_1_08.png.png 1157 5.
