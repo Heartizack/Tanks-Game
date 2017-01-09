@@ -4,9 +4,9 @@ These are the files necessary to run the executable. The SourceCode is not avail
 I. Team
 -----------
 
-  Zachary L.
-  Zachary E.
-  Nick M.
+ - Zachary L.
+ - Zachary E.
+ - Nick M.
  
 II. Purpose
 -----------
