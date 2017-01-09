@@ -1,0 +1,1 @@
+tanks_barrel_3_01.png.png 10 4, tanks_barrel_3_02.png.png 10 38, tanks_barrel_3_03.png.png 10 72, tanks_barrel_3_04.png.png 10 106, tanks_barrel_3_05.png.png 10 140, tanks_barrel_3_06.png.png 10 174, tanks_barrel_3_07.png.png 10 208.
