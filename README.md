@@ -1,5 +1,5 @@
 # Tanks-Game
-These are the files necessary to run the executable. The SourceCode is not available to the Public. Source Code available per request.
+These are the files necessary to run the executable. The Source code is not available to the Public. Source code available per request.
 
 I. Team
 -----------
