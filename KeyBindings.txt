@@ -1,0 +1,18 @@
+Keyboard Bindings:
+
+	W or Up			-		Angles Barrel Up
+	S or Down		-		Angles Barrel Down
+	A or Left		-		Moves Tank Leftward
+	D or Right		-		Moves Tank Rightward
+	Space or Enter  -		Fires Projectile
+	B				-		Changes Projectile Type
+	
+Controller Bindings:
+
+	Up or Toggle Up		  -		Angles Barrel Up     
+	Down or Toggle Down   -		Angles Barrel Down
+	Left or Toggle Left   -		Moves Tank Leftward
+	Right or Toggle Right -     Moves Tank Rightward
+	A or LT or RT         -     Fires Projectile
+	LB or RB			  -		Changes Projectile Type
+
